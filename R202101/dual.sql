@@ -1,0 +1,1 @@
+selcet * from dual;
